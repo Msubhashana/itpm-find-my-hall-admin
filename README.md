@@ -1,1 +1,1 @@
-we are creating a appliacation for finding halls for SLIIT
+A mobile application designed to help students easily locate lecture halls on campus. Features include voice command search, interactive floor plans, and real-time notifications for hall location changes. Ideal for first-year students to navigate the campus efficiently without relying on paper maps or static floor plans.
