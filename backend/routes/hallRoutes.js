@@ -18,7 +18,7 @@ router.post('/add', async (req, res) => {
       return res.status(400).json({ message: 'Invalid floor number' });
     }
 
-    // Create a new hall
+    // Create a new  hall 
     const newHall = new Hall({
       building: buildingId,
       floorNumber,
